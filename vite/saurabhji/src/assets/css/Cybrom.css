@@ -1,0 +1,16 @@
+.header{
+    font-size: 30px;
+    /* padding-left: 550px; */
+    padding-top: 60px;
+}
+
+.hero{
+    font-size: 20px;
+    padding-left: 550px;
+    color: white;
+    background-image: url(https://altarofgaming.com/wp-content/uploads/2019/05/best-gaming-laptops-2019-affordable-trusted-efficient.jpg);
+    /* width: 300px; */
+}
+.foam {
+    margin-top: 100px;
+}

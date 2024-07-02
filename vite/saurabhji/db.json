@@ -1,0 +1,26 @@
+
+
+{
+    "products":[
+        {
+            "Name": "Siya Ram Cotton Shirt",
+            "Prince": "560",
+            "Desription": "This is very Good Shirt",
+            "Images": ""
+        },
+        {
+            "id":2,
+            "Name": "Gaurav Mishra",
+            "UserID": "Gaurav",
+            "Email": "Gauravmis02@gamil.com",
+            "Password": "12345"
+        },
+        {
+            "id":3,
+            "Name": "Abhay Tiwari",
+            "UserID": "Abhay",
+            "Email": "abhaymishra404@gmail.com",
+            "Password": "123456"
+        }
+    ]
+}
